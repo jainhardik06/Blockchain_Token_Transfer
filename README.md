@@ -1,4 +1,4 @@
-# Blockchain Transfer Project
+# Blockchain Funds Transfer Project
 
 This project allows users to transfer Ethereum from a funding account to a specified wallet address using the Sepolia testnet. The project includes a simple frontend for inputting the amount and wallet address, and a backend that handles the transaction using Web3.js.
 
