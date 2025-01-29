@@ -26,6 +26,7 @@ The project consists of a frontend and a backend:
 2. Install the dependencies:
    ```sh
    npm install
+   npm install express body-parser cors web3 web3-providers-http
    ```
 
 3. Update the configuration:
