@@ -30,11 +30,7 @@ The project consists of a frontend and a backend:
    ```
 
 3. Update the configuration:
-   - Open 
-
-server.js
-
- and replace the placeholders with your actual Infura project ID, funding account address, and private key.
+   - Open server.js and replace the placeholders with your actual Infura project ID, funding account address, and private key.
 
 ## Running the Project
 
